@@ -3,5 +3,4 @@ Trabalho final apresentado como requisito parcial para aprovação na disciplina
 
 O trabalho contém os seguintes elementos:
 -Colab com o código produzido, juntamente com os testes realizados
--Arquivo do relatório apresentado
 -Arquivos contendo os datasets utilizados no trabalho (informações sobre eles estão no relatório)
